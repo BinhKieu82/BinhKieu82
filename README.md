@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Binh Kieu
-- 👀 I’m interested in Data science & Web development
-- 🌱 I’m currently learning Data science career track at Springboard & AI for Trading NanoDegree at Udacity
-- 💞️ I’m looking to collaborate on Quant trading & MERN web development
+- 👀 I’m interested in Data science in Quantitative finance & Geoscience
+- 🌱 I’m currently following Quantitative researching & Geophysics seismic forwarding model & inversion
+- 💞️ I’m looking for collaboration on Algo trading & Geoscience datascience
 - 📫 How to reach me: Kindly contact me @ kieubinh82@gmail.com
 
 <!---
